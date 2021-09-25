@@ -7,7 +7,9 @@ Je suis développeur Java, et je développe aussi des plugin minecraft avec l'ap
  ⚡ Je possède un plugin spigot de sanction sous gui avec système de ban intégré https://www.spigotmc.org/resources/sanctionset.89580/
 
  📫 Me conctacter:
+ 
    ➥ Discord: Farmeurimmo#0462
+   
    ➥ Mail: farmeurimmo@gmail.com
 
 <!--
