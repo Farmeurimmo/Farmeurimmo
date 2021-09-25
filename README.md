@@ -6,7 +6,7 @@
 🌱 J'apprends actuellement le python dans mon temps libre
  
 
-⚡ Je développe un plugin spigot [(SanctionSet)](https://www.spigotmc.org/resources/sanctionset.89580/) de sanction sous gui avec système de ban intégré
+⚡ Je développe un plugin spigot nommé [SanctionSet](https://www.spigotmc.org/resources/sanctionset.89580/) qui permet de sanctionner avec des gui et possède système de ban intégré
    
 📫 Me conctacter:
  
