@@ -1,23 +1,13 @@
 ⭐ Je suis développeur Java, et je développe aussi des plugin minecraft avec l'api spigot & BungeeCord
 
-
-
-🔭 Je travaille actuellement sur PremsiServ (mon serveur) qui est un network avec un skyblock
- 
-   ➥ [Lien du discord](https://discord.gg/vWrtFCXmAs)
-   
+🔭 Je travaille actuellement sur [PremsiServ](https://discord.gg/vWrtFCXmAs) (mon serveur) qui est un network avec un skyblock
    
  
 🌱 J'apprends actuellement le python dans mon temps libre
  
 
-
-⚡ Je possède un plugin spigot de sanction sous gui avec système de ban intégré
- 
-   ➥ [Lien du plugin](https://www.spigotmc.org/resources/sanctionset.89580/)
+⚡ Je développe un plugin spigot [(SanctionSet)](https://www.spigotmc.org/resources/sanctionset.89580/) de sanction sous gui avec système de ban intégré
    
-
-
 📫 Me conctacter:
  
    ➥ Discord: Farmeurimmo#0462
