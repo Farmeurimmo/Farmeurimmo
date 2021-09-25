@@ -8,7 +8,7 @@
 
 ⚡ Je développe un plugin spigot nommé [SanctionSet](https://www.spigotmc.org/resources/sanctionset.89580/) qui permet de sanctionner avec des gui et possède système de ban intégré
    
-📫 Me conctacter:
+📫 Me contacter:
  
    ➥ Discord: Farmeurimmo#0462
    
