@@ -1,6 +1,6 @@
 ⭐ Je suis développeur Java, et je développe aussi des plugin minecraft avec l'api spigot & BungeeCord
 
-🔭 Je travaille actuellement sur [PremsiServ](https://discord.gg/vWrtFCXmAs) (mon serveur) qui est un network avec un skyblock
+🔭 Je travaille actuellement sur [VeryMc](https://discord.gg/7V562qf27r) qui est un network avec un skyblock et plein d'autres jeux.
    
  
 🌱 J'apprends actuellement le python dans mon temps libre
