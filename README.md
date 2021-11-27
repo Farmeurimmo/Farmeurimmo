@@ -1,4 +1,4 @@
-⭐ Je suis développeur Java, et je développe aussi des plugin minecraft avec l'api spigot & BungeeCord
+⭐ Je suis développeur Java, et je développe aussi des plugin minecraft avec l'api spigot & BungeeCord & Velocity
 
 🔭 Je travaille actuellement sur [VeryMc](https://discord.gg/7V562qf27r) qui est un network avec un skyblock et plein d'autres jeux.
    
