@@ -13,3 +13,6 @@
    ➥ Discord: Farmeurimmo#0462
    
    ➥ Mail: farmeurimmo@gmail.com
+   
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
