@@ -15,9 +15,4 @@
    ➥ Mail: farmeurimmo@gmail.com
    
 <!--START_SECTION:waka-->
-```text
-Java          4 hrs 6 mins    ██████████████████████░░░   88.08 % 
-XML           22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-IDEA_MODULE   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
-```
 <!--END_SECTION:waka-->
