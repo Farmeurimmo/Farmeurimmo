@@ -14,7 +14,7 @@
    
    ➥ Mail: farmeurimmo@gmail.com
    
-% du code de ma dernière session
+% du code de ma dernière session (update tous les jours à 12h)
 <!--START_SECTION:waka-->
 ```text
 Python   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
