@@ -25,5 +25,5 @@ IDEA_MODULE   ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 <img src="https://github-readme-stats.vercel.app/api?username=Farmeurimmo&show_icons=true&theme=radical"/>
-<img src=[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Farmeurimmo](https://github.com/anuraghazra/github-readme-stats)/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Farmeurimmo]"(https://github.com/anuraghazra/github-readme-stats)/>
 
