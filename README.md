@@ -25,6 +25,4 @@ IDEA_MODULE   ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 <img src="https://github-readme-stats.vercel.app/api?username=Farmeurimmo&show_icons=true&theme=radical"/>
-(Repo local uniquement)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farmeurimmo&langs_count=8&layout=compact&theme=radical&show_icons=true&hide_title=true"/>
 <img src=(https://github-readme-stats.vercel.app/api/wakatime?username=Farmeurimmo)](https://github.com/anuraghazra/github-readme-stats)/>
