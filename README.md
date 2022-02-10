@@ -23,3 +23,6 @@ Python        ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 IDEA_MODULE   ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.72 % 
 ```
 <!--END_SECTION:waka-->
+
+Tests:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Farmeurimmo)](https://github.com/anuraghazra/github-readme-stats)
