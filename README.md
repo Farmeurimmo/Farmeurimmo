@@ -15,6 +15,6 @@
    ➥ Mail: farmeurimmo@gmail.com
 
 <img src="https://github-readme-stats.vercel.app/api?username=Farmeurimmo&show_icons=true&theme=radical"/>
-Top langages (Repo privées uniquement)<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farmeurimmo&layout=compact"(https://github.com/anuraghazra/github-readme-stats)/>
-WakaTime<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Farmeurimmo"(https://github.com/anuraghazra/github-readme-stats)/>
+Top langages (Repo privées uniquement)<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farmeurimmo&layout=compact"/>
+WakaTime<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Farmeurimmo"/>
 
