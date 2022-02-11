@@ -13,16 +13,6 @@
    ➥ Discord: Farmeurimmo#0462
    
    ➥ Mail: farmeurimmo@gmail.com
-   
-% du code de ma dernière session (update tous les jours à 12h)
-<!--START_SECTION:waka-->
-```text
-Java          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   69.41 % 
-XML           ⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.27 % 
-Python        ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.57 % 
-IDEA_MODULE   ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.72 % 
-```
-<!--END_SECTION:waka-->
 
 <img src="https://github-readme-stats.vercel.app/api?username=Farmeurimmo&show_icons=true&theme=radical"/>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Farmeurimmo"(https://github.com/anuraghazra/github-readme-stats)/>
