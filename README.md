@@ -16,5 +16,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Farmeurimmo&show_icons=true&theme=radical"/>
 Top langages (Repo publique uniquement)<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farmeurimmo&layout=compact"/>
-WakaTime<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Farmeurimmo"/>
+<img src="https://github.com/Farmeurimmo/Farmeurimmo/blob/main/images/stat.svg" alt="Alternative Text"/>
+Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
 
