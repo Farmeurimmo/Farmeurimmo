@@ -19,6 +19,5 @@
    ➥ Mail: farmeurimmo@gmail.com
 
 <img src="https://github-readme-stats.vercel.app/api?username=Farmeurimmo&show_icons=true&theme=radical"/>
-Top langages (Repo publique uniquement)<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farmeurimmo&layout=compact"/>
 Temps de Code sur 7 jours (avec mes IDE possédant Waka Time)<img src="https://github.com/Farmeurimmo/Farmeurimmo/blob/main/images/stat.svg"/>
 
