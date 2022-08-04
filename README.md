@@ -1,16 +1,12 @@
-⭐ Je suis développeur Java, et je développe aussi des plugin minecraft avec l'api spigot & BungeeCord & Velocity
+⭐ Je suis développeur Java, Html + css et aussi mais surtout avec les API Spigot, BungeeCord, Velocity
 
 🔭 Je travaille actuellement sur [VeryMc](https://discord.gg/FYFXZJhdag) qui est un network avec un skyblock et plein d'autres jeux.
-   
- 
-🌱 J'apprends actuellement le python dans mon temps libre et complète mes connaissances en java.
- 
 
 ⚡ Je développe un plugin spigot nommé [SanctionSet](https://www.spigotmc.org/resources/sanctionset.89580/) qui permet de sanctionner avec des gui et possède système de ban intégré
 
 ⚡ Ma dernière lubie du moment est d'installer et d'administrer mes propres serveurs (nas en particulier).
 
-⚡ Je participe aussi à des mini-projets de mon lycée.
+⚡ Je participe aussi à des mini-projets & concours avec mon lycée (arduino ou encore concours Algoréa).
    
 📫 Me contacter:
  
