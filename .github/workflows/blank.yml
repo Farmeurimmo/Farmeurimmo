@@ -2,8 +2,8 @@ name: WakaTime status update
 
 on:
   schedule:
-    # Runs at 12 am  '0 0 * * *'  UTC
-    - cron: '0 0 * * *'
+    # Runs at 6:30 am  '30 6 * * *'  UTC
+    - cron: '30 6 * * *'
   workflow_dispatch:
 
 jobs:
