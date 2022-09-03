@@ -9,7 +9,7 @@
 ⚡ Je participe aussi à des mini-projets & concours avec mon lycée (arduino ou encore concours Algoréa).
 
 
-⭐ Mon site personnel: [https://farmeurimmo.fr](https://farmeurimmo.fr)
+⭐ Mon site personnel: https://farmeurimmo.fr
 
    
 📫 Me contacter:
