@@ -4,9 +4,11 @@
 
 ⚡ Je développe un plugin spigot nommé [SanctionSet](https://www.spigotmc.org/resources/sanctionset.89580/) qui permet de sanctionner avec des gui et possède système de ban intégré
 
-⚡ Ma dernière lubie du moment est d'installer et d'administrer mes propres serveurs (nas en particulier).
+⚡ En ce moment, j'installe ma propre infrastructure personnelle chez moi avec des protections anti ddos (avec cloudflare).
 
 ⚡ Je participe aussi à des mini-projets & concours avec mon lycée (arduino ou encore concours Algoréa).
+
+⭐ Mon site personnel: https://farmeurimmo.fr
    
 📫 Me contacter:
  
