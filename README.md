@@ -16,7 +16,7 @@
  
    ➥ Discord: Farmeurimmo#0462
    
-   ➥ Mail: farmeurimmo@gmail.com
+   ➥ Mail: contact@farmeurimmo.fr
 
 <img src="https://github-readme-stats.vercel.app/api?username=Farmeurimmo&count_private=true&show_icons=true&theme=radical"/>
 Temps de Code sur 7 jours (avec mes IDE possédant Waka Time)<img src="https://github.com/Farmeurimmo/Farmeurimmo/blob/main/images/stat.svg"/>
