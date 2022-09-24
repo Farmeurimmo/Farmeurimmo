@@ -1,4 +1,4 @@
-⭐ Je suis développeur Java, Html + css et aussi mais surtout avec les API Spigot, BungeeCord, Velocity.
+⭐ Je suis développeur Java, Python, Html + css et aussi mais surtout avec les API Spigot, BungeeCord, Velocity.
 
 ⚡ Je développe un plugin spigot nommé [ReaperSanction](https://www.spigotmc.org/resources/reapersanction.89580/) qui permet de sanctionner avec des gui et possède système de ban intégré.
 
