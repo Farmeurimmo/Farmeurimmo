@@ -1,11 +1,9 @@
-⭐ Je suis développeur Java, Python, Html + css et aussi mais surtout avec les API Spigot, BungeeCord, Velocity.
+⭐ Je suis Développeur Full Stack (Java, Html + Css, Python, TypeScript (cloudflare workers), C++ Arduino,  API Mc: Spigot, Bungee & Velocity).
+⭐ Mais aussi Sys Admin (installation de machine, os, docker, installation panels/database/etc, anti ddos, mise en place de nom de domaine.
 
 ⚡ Je développe un plugin spigot nommé [ReaperSanction](https://www.spigotmc.org/resources/reapersanction.89580/) qui permet de sanctionner avec des gui et possède système de ban intégré.
 
-⚡ En ce moment, j'installe ma propre infrastructure personnelle chez moi avec des protections anti ddos (avec cloudflare).
-
-⚡ Je participe aussi à des mini-projets & concours avec mon lycée (arduino ou encore concours Algoréa).
-
+⚡ Si vous souhaitez commander un service / passer commande / avoir des renseignements merci de m'envoyer un mail à l'adresse mail ci dessous ou de passer par discord.
 
 ⭐ Mon site personnel: https://farmeurimmo.fr
 
