@@ -1,6 +1,6 @@
-⭐ Je suis Développeur Full Stack (Java, Html + Css, Python, TypeScript (cloudflare workers), C++ Arduino,  API Mc: Spigot, Bungee & Velocity).
+⭐ Développeur Full Stack (Java, Html + Css, Python, TypeScript (cloudflare workers), C++ Arduino,  API Mc: Spigot, Bungee & Velocity).
 
-⭐ Mais aussi Sys Admin (installation de machine, os, docker, installation panels/database/etc, anti ddos, mise en place de nom de domaine.
+⭐ Sys Admin (installation de machine, os, docker, installation panels/database/etc, anti ddos, mise en place de nom de domaine.
 
 ⚡ Je développe un plugin spigot nommé [ReaperSanction](https://www.spigotmc.org/resources/reapersanction.89580/) qui permet de sanctionner avec des gui et possède système de ban intégré.
 
