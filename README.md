@@ -4,6 +4,8 @@
 
 ⚡ Je développe un plugin spigot nommé [ReaperSanction](https://www.spigotmc.org/resources/reapersanction.89580/) qui permet de sanctionner avec des gui et possède système de ban intégré.
 
+⚡ Adminisrateur et Développeur chez [OpaleUHC](https://opaleuhc.fr).
+
 ⚡ Si vous souhaitez commander un service / passer commande / avoir des renseignements merci de m'envoyer un mail à l'adresse mail ci dessous ou de passer par discord.
 
 ⭐ Mon site personnel: https://farmeurimmo.fr
