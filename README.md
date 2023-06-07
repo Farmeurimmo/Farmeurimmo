@@ -17,7 +17,7 @@
    
    ➥ Mail: contact@farmeurimmo.fr
 
-![Mes stats](https://github-readme-stats.farmeurimmo.fr/api?username=Farmeurimmo&count_private=true&show_icons=true&theme=radical)
+![Mes stats](https://github-readme-stats.farmeurimmo.fr/api?username=Farmeurimmo&count_private=true&show_icons=true&theme=radical?include_all_commits=true)
 
 Temps de Code sur 7 jours (avec mes IDE possédant Waka Time)<img src="https://github.com/Farmeurimmo/Farmeurimmo/blob/main/images/stat.svg"/>
 <img src="https://komarev.com/ghpvc/?username=Farmeurimmo" alt="Farmeurimmo" />
