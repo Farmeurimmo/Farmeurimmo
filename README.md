@@ -13,7 +13,7 @@
    
 📫 Me contacter:
  
-   ➥ Discord: Farmeurimmo#0462
+   ➥ Discord: Farmeurimmo#0
    
    ➥ Mail: contact@farmeurimmo.fr
 
