@@ -19,6 +19,8 @@
 
 ![Mes stats](https://github-readme-stats.farmeurimmo.fr/api?username=Farmeurimmo&count_private=true&show_icons=true&theme=radical)
 
+<img src="https://komarev.com/ghpvc/?username=Farmeurimmo" alt="Farmeurimmo" />
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-819%20hrs%2058%20mins-blue)
 
