@@ -22,15 +22,13 @@
 Temps de Code sur 7 jours (avec mes IDE possédant Waka Time)<img src="https://github.com/Farmeurimmo/Farmeurimmo/blob/main/images/stat.svg"/>
 <img src="https://komarev.com/ghpvc/?username=Farmeurimmo" alt="Farmeurimmo" />
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-819%20hrs%2054%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-819%20hrs%2058%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 19.9 kB Used in GitHub's Storage 
  > 
-> 🏆 544 Contributions in the Year 2023
+> 🏆 545 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -42,19 +40,19 @@ Temps de Code sur 7 jours (avec mes IDE possédant Waka Time)<img src="https://g
 
 ```text
 🌞 Morning                249 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-🌆 Daytime                1383 commits        ████████████░░░░░░░░░░░░░   48.15 % 
-🌃 Evening                1227 commits        ███████████░░░░░░░░░░░░░░   42.72 % 
+🌆 Daytime                1383 commits        ████████████░░░░░░░░░░░░░   48.14 % 
+🌃 Evening                1228 commits        ███████████░░░░░░░░░░░░░░   42.74 % 
 🌙 Night                  13 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   363 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+Monday                   363 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
 Tuesday                  422 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Wednesday                578 commits         █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
+Wednesday                578 commits         █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
 Thursday                 318 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-Friday                   270 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-Saturday                 576 commits         █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
+Friday                   271 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+Saturday                 576 commits         █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
 Sunday                   345 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
 ```
 
@@ -100,5 +98,5 @@ CMake                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Farmeurimmo/Farmeurimmo/main/assets/bar_graph.png)
 
 
- Last Updated on 07/07/2023 16:14:22 UTC
+ Last Updated on 07/07/2023 16:29:22 UTC
 <!--END_SECTION:waka-->
