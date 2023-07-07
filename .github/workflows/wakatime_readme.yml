@@ -6,7 +6,7 @@ on:
     - cron: '30 18 * * *'
   workflow_dispatch:
 jobs:
-  update-stats-readme:
+  update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
