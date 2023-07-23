@@ -14,13 +14,13 @@
 
 ---
 
-Si vous souhaitez commander un service / passer commande / avoir des renseignements merci de m'envoyer un mail à l'adresse mail ci dessous ou de passer par discord.
+**Si vous souhaitez commander un service / passer commande / avoir des renseignements merci de m'envoyer un mail à l'adresse mail ci dessous ou de passer par discord.**
 
 📫 Me contacter:
  
    ➥ Discord: Farmeurimmo#0
    
-   ➥ Mail: contact@farmeurimmo.fr
+   ➥ **Mail: contact@farmeurimmo.fr**
 
 ---
 
