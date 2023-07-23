@@ -10,11 +10,12 @@
 
 ---
 
-⭐ Mon site personnel: https://farmeurimmo.fr
+➥ Mon site personnel: https://farmeurimmo.fr
 
 ---
 
 Si vous souhaitez commander un service / passer commande / avoir des renseignements merci de m'envoyer un mail à l'adresse mail ci dessous ou de passer par discord.
+
 📫 Me contacter:
  
    ➥ Discord: Farmeurimmo#0
