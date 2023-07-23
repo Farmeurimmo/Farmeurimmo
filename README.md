@@ -6,7 +6,7 @@
 
 ### Mes projets actuels
 - [ReaperSanction](https://www.spigotmc.org/resources/reapersanction.89580/) permet de sanctionner avec des gui et possède système de ban intégré.
-- [Noctis](https://discord.gg/ydRurvUJ8U). C'est un serveur minecraft en cours de développement.
+- [Noctis](https://discord.gg/ydRurvUJ8U). C'est un serveur minecraft mini-jeux en cours de développement.
 
 ---
 
