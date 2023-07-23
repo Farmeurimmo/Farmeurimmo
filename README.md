@@ -1,16 +1,14 @@
-⭐ Développeur Full Stack (Java, Html + Css, Python, TypeScript (cloudflare workers), C++ Arduino,  API Mc: Spigot, Bungee & Velocity).
+⭐ **Développeur** Java, API Minecraft : Spigot/Paper/Purpur/Bungee/Velocity, Web (HTML,CSS,JS/TS), C++, SQL, Python.
 
-⭐ Sys Admin (installation de machine, os, docker, installation panels/database/etc, anti ddos, mise en place de nom de domaine).
+⭐ **Administrateur Système** (installation de machine, os, docker, installation panels/database/etc, anti ddos, mise en place de nom de domaine).
 
-⚡ Je développe un plugin spigot nommé [ReaperSanction](https://www.spigotmc.org/resources/reapersanction.89580/) qui permet de sanctionner avec des gui et possède système de ban intégré.
-
-⚡ Adminisrateur et Développeur chez [OpaleUHC](https://opaleuhc.fr).
-
-⚡ Si vous souhaitez commander un service / passer commande / avoir des renseignements merci de m'envoyer un mail à l'adresse mail ci dessous ou de passer par discord.
+### Mes projets actuels
+- [ReaperSanction](https://www.spigotmc.org/resources/reapersanction.89580/) permet de sanctionner avec des gui et possède système de ban intégré.
+- [Noctis](https://discord.gg/ydRurvUJ8U). C'est un serveur minecraft en cours de développement.
 
 ⭐ Mon site personnel: https://farmeurimmo.fr
 
-   
+Si vous souhaitez commander un service / passer commande / avoir des renseignements merci de m'envoyer un mail à l'adresse mail ci dessous ou de passer par discord.
 📫 Me contacter:
  
    ➥ Discord: Farmeurimmo#0
