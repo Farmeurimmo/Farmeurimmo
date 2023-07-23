@@ -2,11 +2,17 @@
 
 ⭐ **Administrateur Système** (installation de machine, os, docker, installation panels/database/etc, anti ddos, mise en place de nom de domaine).
 
+---
+
 ### Mes projets actuels
 - [ReaperSanction](https://www.spigotmc.org/resources/reapersanction.89580/) permet de sanctionner avec des gui et possède système de ban intégré.
 - [Noctis](https://discord.gg/ydRurvUJ8U). C'est un serveur minecraft en cours de développement.
 
+---
+
 ⭐ Mon site personnel: https://farmeurimmo.fr
+
+---
 
 Si vous souhaitez commander un service / passer commande / avoir des renseignements merci de m'envoyer un mail à l'adresse mail ci dessous ou de passer par discord.
 📫 Me contacter:
@@ -14,6 +20,8 @@ Si vous souhaitez commander un service / passer commande / avoir des renseigneme
    ➥ Discord: Farmeurimmo#0
    
    ➥ Mail: contact@farmeurimmo.fr
+
+---
 
 ![Mes stats](https://github-readme-stats.farmeurimmo.fr/api?username=Farmeurimmo&count_private=true&show_icons=true&theme=radical)
 
