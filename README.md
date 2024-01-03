@@ -7,7 +7,7 @@
 ### Mes projets actuels
 - [ReaperSanction](https://www.spigotmc.org/resources/reapersanction.89580/) permet de sanctionner avec des gui et possède système de ban intégré.
 - [Dymuno](https://discord.gg/dymuno-community-986460742293282886). Serveur minecraft mini-jeux bientôt en bêta.
-- [Noctis](https://discord.gg/ydRurvUJ8U). C'est un serveur minecraft mini-jeux en cours de développement.
+- [LastJourney](https://lastjourney.fr). C'est un serveur minecraft hardcore en bêta.
 
 ---
 
