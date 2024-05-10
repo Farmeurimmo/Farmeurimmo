@@ -7,7 +7,6 @@
 ### Mes projets actuels
 - [ReaperSanction](https://www.spigotmc.org/resources/reapersanction.89580/) permet de sanctionner avec des gui et possède système de ban intégré.
 - [Edmine](https://edmine.net). Serveur minecraft mini-jeux bientôt en bêta.
-- [LastJourney](https://lastjourney.fr). C'est un serveur minecraft hardcore.
 
 ---
 
