@@ -16,4 +16,3 @@ jobs:
           SHOW_PROFILE_VIEWS: False
           SHOW_LINES_OF_CODE: True
           SHOW_TOTAL_CODE_TIME: True
-          LOCALE: "fr_FR"
