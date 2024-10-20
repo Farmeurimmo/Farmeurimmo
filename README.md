@@ -17,7 +17,7 @@
 
 📫 Me contacter:
  
-   ➥ Discord: Farmeurimmo#0
+   ➥ Discord: Farmeurimmo
    
    ➥ **Mail: contact@farmeurimmo.fr**
 
