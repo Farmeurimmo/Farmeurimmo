@@ -1,6 +1,8 @@
-⭐ **Développeur** Java, API Minecraft : Spigot/Paper/Purpur/Bungee/Velocity, Web (HTML,CSS,JS/TS), Python.
+⭐ **Développeur** C, Java, API Minecraft : Spigot/Paper/Purpur/Bungee/Velocity, Web (HTML,CSS,JS/TS), Python.
 
 ⭐ **Administrateur Système** (installation de machine, os, docker, installation panels/database/etc, anti ddos, mise en place de nom de domaine).
+
+Full time Arch user.
 
 ---
 
