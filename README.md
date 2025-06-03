@@ -19,12 +19,18 @@ Full time Arch user.
    ➥ **Mail: contact@farmeurimmo.fr**
 
 ---
+## Me in some stats
+
+### On my GitHub account:
+
 <a href="https://github.com/Farmeurimmo/github-stats">
 <img src="https://github.com/Farmeurimmo/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/Farmeurimmo/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=Farmeurimmo" alt="Farmeurimmo" />
+
+### Globally:
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C085%20hrs%2045%20mins-blue)
