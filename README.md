@@ -22,8 +22,10 @@
    ➥ **Mail: contact@farmeurimmo.fr**
 
 ---
-
-![Mes stats](https://github-readme-stats.farmeurimmo.fr/api?username=Farmeurimmo&count_private=true&show_icons=true&theme=radical)
+<a href="https://github.com/Farmeurimmo/github-stats">
+<img src="https://github.com/Farmeurimmo/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/Farmeurimmo/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
 
 <img src="https://komarev.com/ghpvc/?username=Farmeurimmo" alt="Farmeurimmo" />
 
