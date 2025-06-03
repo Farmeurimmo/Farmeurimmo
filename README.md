@@ -19,7 +19,7 @@ Full time Arch user.
    ➥ **Mail: contact@farmeurimmo.fr**
 
 ---
-## En quelques chiffres
+## Quelques chiffres
 
 ### Sur mon compte Github (Hors organisations):
 
