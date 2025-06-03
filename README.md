@@ -4,11 +4,6 @@
 
 ---
 
-### Mes projets actuels
-- [ReaperSanction](https://www.spigotmc.org/resources/reapersanction.89580/) permet de sanctionner avec des gui et possède système de ban intégré.
-
----
-
 ➥ Mon site personnel: https://farmeurimmo.fr
 
 ---
