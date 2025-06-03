@@ -32,6 +32,7 @@ Full time Arch user.
 
 ### Globalement:
 
+(Depuis que j'utilise wakatime)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C085%20hrs%2045%20mins-blue)
 
