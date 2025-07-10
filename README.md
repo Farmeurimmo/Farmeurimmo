@@ -34,15 +34,15 @@ Full time Arch user.
 
 (Depuis que j'utilise wakatime)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C177%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C185%20hrs%2028%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-973.8%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-975.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 57.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,455 Contributions in the Year 2025
+> 🏆 1,456 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -50,52 +50,6 @@ Full time Arch user.
  > 
 > 🔑 43 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2368 commits        ███████░░░░░░░░░░░░░░░░░░   26.26 % 
-🌆 Daytime                3401 commits        █████████░░░░░░░░░░░░░░░░   37.71 % 
-🌃 Evening                2787 commits        ████████░░░░░░░░░░░░░░░░░   30.90 % 
-🌙 Night                  463 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   1172 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Tuesday                  1302 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-Wednesday                1540 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-Thursday                 1166 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-Friday                   1281 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-Saturday                 1226 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Sunday                   1332 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-Vue.js                   28 hrs 30 mins      █████████████████████░░░░   84.53 % 
-CSS                      3 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-TypeScript               51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-Java                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-JavaScript               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-
-🔥 Editors: 
-IntelliJ IDEA            33 hrs 43 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-QrCodeMenuApp            32 hrs 47 mins      ████████████████████████░   97.27 % 
-MNSA-Enchantements       23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-MNSA-AutoEvents          22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-elypsecloud-wiki         8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
-
-💻 Operating System: 
-Linux                    33 hrs 43 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -113,5 +67,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Farmeurimmo/Farmeurimmo/main/assets/bar_graph.png)
 
 
- Last Updated on 09/07/2025 06:36:30 UTC
+ Last Updated on 10/07/2025 06:37:11 UTC
 <!--END_SECTION:waka-->
