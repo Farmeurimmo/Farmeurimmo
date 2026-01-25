@@ -1,4 +1,4 @@
-⭐ **Développeur** C, Java, API Minecraft : Spigot/Paper/Purpur/Bungee/Velocity, Web (HTML,CSS,JS/TS), Python.
+⭐ **Développeur** Java (Spring, Hytale, Minestom, Paper, Velocity), Web (Vue), C++, SQL, SFML.
 
 ⭐ **Administrateur Système** (installation de machine, os, docker, installation panels/database/etc, anti ddos, mise en place de nom de domaine).
 
