@@ -30,8 +30,6 @@ Full time Arch user.
 
 <img src="https://komarev.com/ghpvc/?username=Farmeurimmo" alt="Farmeurimmo" />
 
-### Globalement:
-
 (Depuis que j'utilise wakatime)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C056%20hrs%204%20mins-blue?style=flat)
