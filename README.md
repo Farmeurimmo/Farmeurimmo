@@ -24,8 +24,8 @@ Full time Arch user.
 ### Sur mon compte Github (Hors organisations):
 
 <a href="https://github.com/Farmeurimmo/github-stats">
-<img src="https://github.com/Farmeurimmo/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/Farmeurimmo/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/Farmeurimmo/github-stats/refs/heads/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/Farmeurimmo/github-stats/refs/heads/generated/languages.svg#gh-dark-mode-only" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=Farmeurimmo" alt="Farmeurimmo" />
