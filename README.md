@@ -34,7 +34,7 @@ Full time Arch user.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C056%20hrs%2023%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.85%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.84%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -52,8 +52,8 @@ Full time Arch user.
 
 ```text
 🌞 Morning                4335 commits        ███████░░░░░░░░░░░░░░░░░░   29.18 % 
-🌆 Daytime                6155 commits        ██████████░░░░░░░░░░░░░░░   41.43 % 
-🌃 Evening                3900 commits        ███████░░░░░░░░░░░░░░░░░░   26.25 % 
+🌆 Daytime                6154 commits        ██████████░░░░░░░░░░░░░░░   41.43 % 
+🌃 Evening                3900 commits        ███████░░░░░░░░░░░░░░░░░░   26.26 % 
 🌙 Night                  465 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
@@ -62,7 +62,7 @@ Full time Arch user.
 Monday                   1781 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
 Tuesday                  1932 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
 Wednesday                3195 commits        █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
-Thursday                 2077 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+Thursday                 2076 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
 Friday                   2124 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
 Saturday                 1755 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
 Sunday                   1991 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
@@ -111,5 +111,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Farmeurimmo/Farmeurimmo/main/assets/bar_graph.png)
 
 
- Last Updated on 30/06/2026 08:36:22 UTC
+ Last Updated on 30/06/2026 09:45:30 UTC
 <!--END_SECTION:waka-->
