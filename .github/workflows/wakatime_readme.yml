@@ -16,4 +16,4 @@ jobs:
           SHOW_PROFILE_VIEWS: False
           SHOW_LINES_OF_CODE: True
           SHOW_TOTAL_CODE_TIME: True
-          IGNORED_REPOS: ${{ vars.IGNORED_REPOS }}
+          IGNORED_REPOS: ${{ env.IGNORED_REPOS }}
