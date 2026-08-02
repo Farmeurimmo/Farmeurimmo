@@ -1,4 +1,4 @@
-⭐ **Développeur** Java (Spring, Hytale, Minestom, Paper, Velocity), Web (Vue), C++, SQL, SFML.
+⭐ **Développeur** Java (Spring, Folia, Paper, Velocity), Web (Vue), C++ (SFML), SQL.
 
 ⭐ **Administrateur Système** (installation de machine, os, docker, installation panels/database/etc, anti ddos, mise en place de nom de domaine).
 
