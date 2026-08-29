@@ -32,7 +32,7 @@ Full time Arch user.
 
 (Depuis que j'utilise wakatime)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C251%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C256%20hrs%2022%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2030%20mins-blue?style=flat)
 
@@ -40,9 +40,9 @@ Full time Arch user.
 
 **🐱 My GitHub Data** 
 
-> 📦 243.4 kB Used in GitHub's Storage 
+> 📦 243.5 kB Used in GitHub's Storage 
  > 
-> 🏆 2,546 Contributions in the Year 2026
+> 🏆 2,547 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -54,7 +54,7 @@ Full time Arch user.
 
 ```text
 🌞 Morning                4853 commits        ████████░░░░░░░░░░░░░░░░░   30.35 % 
-🌆 Daytime                7025 commits        ███████████░░░░░░░░░░░░░░   43.94 % 
+🌆 Daytime                7026 commits        ███████████░░░░░░░░░░░░░░   43.94 % 
 🌃 Evening                3647 commits        ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
 🌙 Night                  463 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 ```
@@ -62,11 +62,11 @@ Full time Arch user.
 
 ```text
 Monday                   2105 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-Tuesday                  2188 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+Tuesday                  2188 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
 Wednesday                3487 commits        █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
 Thursday                 2396 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
 Friday                   2368 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Saturday                 1588 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+Saturday                 1589 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
 Sunday                   1856 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
 ```
 
@@ -77,23 +77,23 @@ Sunday                   1856 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Java                     7 hrs 21 mins       ███████████░░░░░░░░░░░░░░   43.40 % 
-YAML                     4 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-Vue                      3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
-JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-XML                      19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Java                     11 hrs 11 mins      ██████████████░░░░░░░░░░░   56.94 % 
+YAML                     3 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
+Vue                      3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Markdown                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+XML                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 
 🔥 Editors: 
-IntelliJ IDEA            16 hrs 57 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            19 hrs 39 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-FullSpin                 9 hrs 24 mins       ██████████████░░░░░░░░░░░   55.55 % 
-Qadoc-Frontend           4 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   24.03 % 
-Qadow-Infra              2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
-HeneriaSemiRp            28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+FullSpin                 13 hrs 51 mins      ██████████████████░░░░░░░   70.52 % 
+Qadoc-Frontend           3 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+Qadow-Infra              1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+HeneriaSemiRp            28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 
 💻 Operating System: 
-Linux                    16 hrs 57 mins      █████████████████████████   100.00 % 
+Linux                    19 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -119,5 +119,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Farmeurimmo/Farmeurimmo/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2026 18:27:22 UTC
+ Last Updated on 29/08/2026 12:34:29 UTC
 <!--END_SECTION:waka-->
