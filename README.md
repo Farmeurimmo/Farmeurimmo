@@ -42,7 +42,7 @@ Full time Arch user.
 
 > 📦 243.8 kB Used in GitHub's Storage 
  > 
-> 🏆 2,735 Contributions in the Year 2026
+> 🏆 2,736 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -54,7 +54,7 @@ Full time Arch user.
 
 ```text
 🌞 Morning                7244 commits        ████████░░░░░░░░░░░░░░░░░   32.79 % 
-🌆 Daytime                10739 commits       ████████████░░░░░░░░░░░░░   48.61 % 
+🌆 Daytime                10740 commits       ████████████░░░░░░░░░░░░░   48.61 % 
 🌃 Evening                3648 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
 🌙 Night                  463 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 ```
@@ -67,7 +67,7 @@ Wednesday                5765 commits        ███████░░░░�
 Thursday                 3348 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
 Friday                   3537 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
 Saturday                 1591 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-Sunday                   1859 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+Sunday                   1860 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
 ```
 
 
@@ -77,45 +77,22 @@ Sunday                   1859 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Vue                      1 hr 31 mins        ████████░░░░░░░░░░░░░░░░░   32.37 % 
-Java                     1 hr 15 mins        ███████░░░░░░░░░░░░░░░░░░   26.62 % 
-JavaScript               55 mins             █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
-JSON                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-YAML                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            3 hrs 48 mins       ████████████████████░░░░░   81.16 % 
-Codex CLI                53 mins             █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Qadoc-Frontend           2 hrs 59 mins       ████████████████░░░░░░░░░   63.65 % 
-FullSpin                 1 hr 39 mins        █████████░░░░░░░░░░░░░░░░   35.34 % 
-Qadow-Infra              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 hrs 41 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs (42.65%)
-
-✍️ 462 lines written by AI, 954 lines written by hand (32.63% AI-written)
-
-🔤 686,463 Input Tokens, 49,184 Output Tokens
-
-💵 $7.62 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 23 AI Prompts
-
-GPT                      515 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 32.63% of written lines came from AI
-📝 Concise Prompter — average 164 characters per prompt
-🔁 Iterative Prompter — average 23 prompts per session
-🔍 Hands-On Reviewer — 74.49% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -135,5 +112,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Farmeurimmo/Farmeurimmo/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2026 10:26:10 UTC
+ Last Updated on 13/09/2026 11:27:16 UTC
 <!--END_SECTION:waka-->
