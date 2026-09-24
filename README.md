@@ -32,17 +32,17 @@ Full time Arch user.
 
 (Depuis que j'utilise wakatime)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C310%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C315%20hrs%2056%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-20%20hrs%2015%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.98%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.87%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 244.4 kB Used in GitHub's Storage 
  > 
-> 🏆 2,873 Contributions in the Year 2026
+> 🏆 2,925 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -53,21 +53,21 @@ Full time Arch user.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5517 commits        ████████░░░░░░░░░░░░░░░░░   31.13 % 
-🌆 Daytime                8090 commits        ███████████░░░░░░░░░░░░░░   45.64 % 
-🌃 Evening                3655 commits        █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
-🌙 Night                  463 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+🌞 Morning                5315 commits        ████████░░░░░░░░░░░░░░░░░   30.91 % 
+🌆 Daytime                7765 commits        ███████████░░░░░░░░░░░░░░   45.15 % 
+🌃 Evening                3654 commits        █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
+🌙 Night                  463 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   2421 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Tuesday                  2492 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Wednesday                4028 commits        ██████░░░░░░░░░░░░░░░░░░░   22.72 % 
-Thursday                 2594 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-Friday                   2737 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-Saturday                 1592 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-Sunday                   1861 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Monday                   2318 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+Tuesday                  2416 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Wednesday                3816 commits        ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
+Thursday                 2557 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Friday                   2637 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Saturday                 1592 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Sunday                   1861 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
 ```
 
 
@@ -77,45 +77,46 @@ Sunday                   1861 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Java                     13 hrs 9 mins       ███████████████░░░░░░░░░░   61.23 % 
-Vue                      5 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
-YAML                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-JSON                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-JavaScript               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Java                     13 hrs 24 mins      ███████████████░░░░░░░░░░   58.76 % 
+Vue                      5 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
+YAML                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+JSON                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+JavaScript               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 
 🔥 Editors: 
-IntelliJ IDEA            20 hrs 30 mins      ████████████████████████░   95.47 % 
-Codex CLI                58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+IntelliJ IDEA            22 hrs 4 mins       ████████████████████████░   96.72 % 
+Codex CLI                44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 
 🐱‍💻 Projects: 
-FullSpin                 14 hrs 55 mins      █████████████████░░░░░░░░   69.47 % 
-Qadoc-Frontend           6 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   29.56 % 
-Qadow-Infra              12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+FullSpin                 15 hrs 22 mins      █████████████████░░░░░░░░   67.40 % 
+Qadoc-Frontend           6 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   29.49 % 
+portfolio-v6             30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Qadow-Infra              12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 💻 Operating System: 
-Linux                    21 hrs 28 mins      █████████████████████████   100.00 % 
+Linux                    22 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 45 mins (8.22%)
+⏱ AI Coding Time: 1 hr 16 mins (5.6%)
 
-✍️ 528 lines written by AI, 1,688 lines written by hand (23.83% AI-written)
+✍️ 227 lines written by AI, 1,602 lines written by hand (12.41% AI-written)
 
-🔤 620,660 Input Tokens, 91,242 Output Tokens
+🔤 309,686 Input Tokens, 58,327 Output Tokens
 
-💵 $7.78 Estimated AI Cost This Week
+💵 $7.63 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 43 AI Prompts
+🧠 5 AI Sessions, 34 AI Prompts
 
-GPT                      814 lines           █████████████████████████   100.00 % 
+GPT                      512 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 23.83% of written lines came from AI
-📄 Detailed Prompter — average 576 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 80.26% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 12.41% of written lines came from AI
+📄 Detailed Prompter — average 589 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 94.7% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -135,5 +136,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Farmeurimmo/Farmeurimmo/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2026 11:10:38 UTC
+ Last Updated on 24/09/2026 11:26:54 UTC
 <!--END_SECTION:waka-->
