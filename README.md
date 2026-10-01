@@ -32,7 +32,7 @@ Full time Arch user.
 
 (Depuis que j'utilise wakatime)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C323%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C324%20hrs%2037%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-20%20hrs%2015%20mins-blue?style=flat)
 
@@ -40,9 +40,9 @@ Full time Arch user.
 
 **🐱 My GitHub Data** 
 
-> 📦 244.5 kB Used in GitHub's Storage 
+> 📦 244.6 kB Used in GitHub's Storage 
  > 
-> 🏆 2,932 Contributions in the Year 2026
+> 🏆 2,944 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -53,9 +53,9 @@ Full time Arch user.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                7181 commits        ████████░░░░░░░░░░░░░░░░░   32.61 % 
-🌆 Daytime                10718 commits       ████████████░░░░░░░░░░░░░   48.67 % 
-🌃 Evening                3658 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+🌞 Morning                7181 commits        ████████░░░░░░░░░░░░░░░░░   32.59 % 
+🌆 Daytime                10728 commits       ████████████░░░░░░░░░░░░░   48.70 % 
+🌃 Evening                3659 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
 🌙 Night                  463 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
@@ -63,11 +63,11 @@ Full time Arch user.
 ```text
 Monday                   3108 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
 Tuesday                  3068 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-Wednesday                5590 commits        ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
-Thursday                 3268 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Friday                   3531 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+Wednesday                5600 commits        ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
+Thursday                 3269 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Friday                   3531 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
 Saturday                 1593 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-Sunday                   1862 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+Sunday                   1862 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
 ```
 
 
@@ -77,23 +77,23 @@ Sunday                   1862 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Java                     10 hrs 13 mins      ██████████████░░░░░░░░░░░   57.07 % 
-Vue                      5 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   28.43 % 
-SQL                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-JavaScript               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+Java                     6 hrs 37 mins       █████████████░░░░░░░░░░░░   52.41 % 
+Vue                      4 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   33.92 % 
+JavaScript               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+SQL                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 
 🔥 Editors: 
-IntelliJ IDEA            17 hrs 54 mins      █████████████████████████   100.00 % 
+IntelliJ IDEA            12 hrs 37 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-FullSpin                 11 hrs 9 mins       ████████████████░░░░░░░░░   62.31 % 
-Qadoc-Frontend           5 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   32.33 % 
-portfolio-v6             53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Qadow-Infra              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+FullSpin                 7 hrs 17 mins       ██████████████░░░░░░░░░░░   57.69 % 
+Qadoc-Frontend           4 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   38.68 % 
+portfolio-v6             23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Qadow-Infra              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 💻 Operating System: 
-Linux                    17 hrs 54 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -119,5 +119,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Farmeurimmo/Farmeurimmo/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2026 12:15:53 UTC
+ Last Updated on 01/10/2026 12:50:25 UTC
 <!--END_SECTION:waka-->
