@@ -42,7 +42,7 @@ Full time Arch user.
 
 > 📦 244.6 kB Used in GitHub's Storage 
  > 
-> 🏆 2,946 Contributions in the Year 2026
+> 🏆 2,947 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -54,7 +54,7 @@ Full time Arch user.
 
 ```text
 🌞 Morning                7649 commits        ████████░░░░░░░░░░░░░░░░░   32.88 % 
-🌆 Daytime                11490 commits       ████████████░░░░░░░░░░░░░   49.39 % 
+🌆 Daytime                11491 commits       ████████████░░░░░░░░░░░░░   49.39 % 
 🌃 Evening                3661 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
 🌙 Night                  463 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 ```
@@ -67,7 +67,7 @@ Wednesday                6070 commits        ███████░░░░�
 Thursday                 3413 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
 Friday                   3750 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
 Saturday                 1594 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-Sunday                   1862 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Sunday                   1863 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
 ```
 
 
@@ -77,23 +77,20 @@ Sunday                   1862 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Vue                      3 hrs 31 mins       █████████████████░░░░░░░░   67.59 % 
-Java                     55 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-JavaScript               23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-TypeScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Vue                      52 mins             ██████████████████████░░░   87.87 % 
+TypeScript               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔥 Editors: 
-IntelliJ IDEA            5 hrs 12 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            59 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Qadoc-Frontend           3 hrs 11 mins       ███████████████░░░░░░░░░░   61.33 % 
-portfolio-v6             59 mins             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-FullSpin                 58 mins             █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
-Qadow-Infra              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+portfolio-v6             59 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    5 hrs 12 mins       █████████████████████████   100.00 % 
+Linux                    59 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -119,5 +116,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Farmeurimmo/Farmeurimmo/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2026 11:24:43 UTC
+ Last Updated on 04/10/2026 12:06:15 UTC
 <!--END_SECTION:waka-->
