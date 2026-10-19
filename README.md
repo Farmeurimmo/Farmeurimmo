@@ -36,13 +36,13 @@ Full time Arch user.
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-20%20hrs%2015%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.06%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.13%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 245.1 kB Used in GitHub's Storage 
  > 
-> 🏆 3,119 Contributions in the Year 2026
+> 🏆 3,120 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -53,21 +53,21 @@ Full time Arch user.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                7687 commits        ████████░░░░░░░░░░░░░░░░░   32.97 % 
-🌆 Daytime                11492 commits       ████████████░░░░░░░░░░░░░   49.30 % 
-🌃 Evening                3670 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-🌙 Night                  463 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+🌞 Morning                5697 commits        ████████░░░░░░░░░░░░░░░░░   31.29 % 
+🌆 Daytime                8379 commits        ████████████░░░░░░░░░░░░░   46.02 % 
+🌃 Evening                3667 commits        █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
+🌙 Night                  463 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   3312 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Tuesday                  3277 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Wednesday                5935 commits        ██████░░░░░░░░░░░░░░░░░░░   25.46 % 
-Thursday                 3517 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-Friday                   3810 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-Saturday                 1596 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-Sunday                   1865 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Monday                   2481 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+Tuesday                  2566 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Wednesday                4105 commits        ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
+Thursday                 2716 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Friday                   2877 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+Saturday                 1596 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Sunday                   1865 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
 ```
 
 
@@ -119,5 +119,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Farmeurimmo/Farmeurimmo/main/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2026 10:42:26 UTC
+ Last Updated on 19/10/2026 12:39:42 UTC
 <!--END_SECTION:waka-->
