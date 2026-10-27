@@ -32,7 +32,7 @@ Full time Arch user.
 
 (Depuis que j'utilise wakatime)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C383%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C386%20hrs%2022%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-20%20hrs%2015%20mins-blue?style=flat)
 
@@ -42,28 +42,28 @@ Full time Arch user.
 
 > 📦 245.3 kB Used in GitHub's Storage 
  > 
-> 🏆 3,144 Contributions in the Year 2026
+> 🏆 3,148 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 51 Public Repositories 
  > 
-> 🔑 53 Private Repositories 
+> 🔑 54 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning                9468 commits        █████████░░░░░░░░░░░░░░░░   34.03 % 
-🌆 Daytime                14219 commits       █████████████░░░░░░░░░░░░   51.11 % 
+🌆 Daytime                14222 commits       █████████████░░░░░░░░░░░░   51.11 % 
 🌃 Evening                3673 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
 🌙 Night                  463 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   4053 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-Tuesday                  3900 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-Wednesday                7522 commits        ███████░░░░░░░░░░░░░░░░░░   27.04 % 
+Monday                   4055 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Tuesday                  3901 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Wednesday                7522 commits        ███████░░░░░░░░░░░░░░░░░░   27.03 % 
 Thursday                 4237 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
 Friday                   4646 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
 Saturday                 1599 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
@@ -107,11 +107,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Python                   18 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Vue                      7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-HTML                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-Zig                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Python                   19 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Vue                      7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+HTML                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Zig                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 ```
 
 
@@ -121,5 +121,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Farmeurimmo/Farmeurimmo/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2026 12:38:49 UTC
+ Last Updated on 27/10/2026 11:55:58 UTC
 <!--END_SECTION:waka-->
