@@ -40,9 +40,9 @@ Full time Arch user.
 
 **🐱 My GitHub Data** 
 
-> 📦 245.6 kB Used in GitHub's Storage 
+> 📦 245.7 kB Used in GitHub's Storage 
  > 
-> 🏆 3,166 Contributions in the Year 2026
+> 🏆 3,167 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -53,8 +53,8 @@ Full time Arch user.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                9471 commits        █████████░░░░░░░░░░░░░░░░   34.02 % 
-🌆 Daytime                14232 commits       █████████████░░░░░░░░░░░░   51.12 % 
+🌞 Morning                9471 commits        █████████░░░░░░░░░░░░░░░░   34.01 % 
+🌆 Daytime                14233 commits       █████████████░░░░░░░░░░░░   51.12 % 
 🌃 Evening                3677 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
 🌙 Night                  463 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 ```
@@ -66,7 +66,7 @@ Tuesday                  3903 commits        ████░░░░░░░�
 Wednesday                7532 commits        ███████░░░░░░░░░░░░░░░░░░   27.05 % 
 Thursday                 4241 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
 Friday                   4647 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-Saturday                 1599 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+Saturday                 1600 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
 Sunday                   1866 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
 ```
 
@@ -77,25 +77,25 @@ Sunday                   1866 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               5 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   27.45 % 
-YAML                     3 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
-Python                   2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Vue                      2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-Java                     1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+JavaScript               4 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   32.28 % 
+YAML                     3 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   27.17 % 
+Python                   1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+Java                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+JSON                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            15 hrs 51 mins      ██████████████████████░░░   86.66 % 
-PyCharm                  2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+IntelliJ IDEA            12 hrs 3 mins       ██████████████████████░░░   87.56 % 
+PyCharm                  1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
 
 🐱‍💻 Projects: 
-3DOKR-TP                 6 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   37.99 % 
-Qadow-Infra              4 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
-3AINT-Project            2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-Qadoc-Frontend           2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-FullSpin                 1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+3DOKR-TP                 7 hrs 10 mins       █████████████░░░░░░░░░░░░   52.15 % 
+Qadow-Infra              3 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
+3AINT-Project            1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+portfolio-v6             1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+FullSpin                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 
 💻 Operating System: 
-Linux                    18 hrs 17 mins      █████████████████████████   100.00 % 
+Linux                    13 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -121,5 +121,5 @@ Zig                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Farmeurimmo/Farmeurimmo/main/assets/bar_graph.png)
 
 
- Last Updated on 30/10/2026 12:31:44 UTC
+ Last Updated on 31/10/2026 12:02:39 UTC
 <!--END_SECTION:waka-->
